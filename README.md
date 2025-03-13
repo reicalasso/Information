@@ -1,23 +1,27 @@
 
-# Yin Tsukiyomi - Game Developer
 
-Hello! I'm Yin Tsukiyomi, a second-year software engineering student with a passion for creating immersive and story-driven games. My focus lies in designing innovative gameplay mechanics, building captivating narratives, and exploring the technical aspects of game development to bring unique worlds to life.
+---
 
-## About Me
--🎓 Education: Currently in my second year studying Software Engineering at the University of Ankara. I have a strong interest in game design, storytelling, and the technical foundations of game development.
+# Yin Tsukiyomi - Cybersecurity Engineer
 
--💻 Skills: Gameplay programming, game mechanics design, storytelling, world-building, Unity/Unreal Engine, and shader programming.
+Hello! I'm Yin Tsukiyomi, a second-year software engineering student with a strong passion for cybersecurity. My focus lies in ethical hacking, digital privacy, and security research. I aim to develop innovative solutions for protecting digital assets and enhancing online security.
 
--🎮 Projects: Actively working on narrative-driven games, interactive storytelling mechanics, and experimenting with AI integration in game worlds. I also contribute to open-source tools for game development.
+About Me
 
--🌱 Currently Learning: Procedural content generation, advanced physics simulations, and real-time ray tracing. I'm also exploring how AI can enhance player experiences in games.
+🎓 Education: Currently in my second year studying Software Engineering at the University of Ankara. I specialize in cybersecurity, ethical hacking, and digital forensics.
+
+💻 Skills: Penetration testing, threat analysis, OSINT, network security, vulnerability assessment, and secure software development.
+
+🔍 Projects: Actively working on a cybersecurity tool designed to detect and remove digital footprints. I also perform security assessments and contribute to open-source security projects.
+
+🌱 Currently Learning: Advanced exploit development, reverse engineering, and real-time threat detection. I'm also researching AI-driven cybersecurity solutions.
 
 
-## Featured Projects
+Featured Project
 
-### Project: Paradoxical Horizons
+Project: Digital Footprint Eraser
 
--  **Description:** Paradoxical Horizons is a narrative-based dystopian game that immerses players in morally challenging scenarios. The game features branching storylines, complex characters, and an expansive world designed to provoke thought and engagement. Advanced AI systems are utilized to create adaptive story arcs and dynamic gameplay environments.
+Description: A cybersecurity tool designed to identify and remove online traces of user activity. This project leverages OSINT techniques and automated scripts to enhance digital privacy and security.
 
 ## Contact
 Feel free to reach out for collaboration or game development discussions:
