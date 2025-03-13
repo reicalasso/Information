@@ -24,7 +24,7 @@ Project: Digital Footprint Eraser
 Description: A cybersecurity tool designed to identify and remove online traces of user activity. This project leverages OSINT techniques and automated scripts to enhance digital privacy and security.
 
 ## Contact
-Feel free to reach out for collaboration or game development discussions:
+Feel free to reach out for collaboration or development discussions:
 
 - 📧 **Email:** [Click Here](mailto:mehmethakbilen2005@gmail.com)
 - 💼 **LinkedIn:** [Mehmet Arda Hakbilen]
