@@ -6,8 +6,10 @@
 <h1 align="center">🛡️ Yin Tsukuyomi — Cybersecurity Engineer</h1>
 
 <p align="right">
-  <img src="src/rikka.gif" alt="Rikka" width="120" style="margin-top: 50px;" />
+  <img src="src/rikka-bg.png" alt="Backdrop" width="180" style="position: relative; z-index: 1; opacity: 0.3; margin-right: -20px;"/>
+  <img src="src/rikka.gif" alt="Rikka" width="120" style="position: relative; z-index: 2;" />
 </p>
+
 
 <p align="center">
   Passionate about ethical hacking, digital privacy, and building secure systems.
