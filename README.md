@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2FSandiaLabs-cyber-hacking-attack-hun4DFmfnDId3lid5b&psig=AOvVaw2436qLbMqWvpW_sKzFYlbg&ust=1744057634247000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOip1o-fxIwDFQAAAAAdAAAAABAE]" alt="Banner" width="700"/>
-</p>
 
 <h1 align="center">🛡️ Yin Tsukiyomi — Cybersecurity Engineer</h1>
 
@@ -9,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail"></a>
+  <a href="foolkiddo.hassle500@passinbox.com"><img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail"></a>
   <a href="https://linkedin.com/in/mehmet-arda-hakbilen"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
