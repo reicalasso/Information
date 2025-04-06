@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://your-image-link.com/banner.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2FSandiaLabs-cyber-hacking-attack-hun4DFmfnDId3lid5b&psig=AOvVaw2436qLbMqWvpW_sKzFYlbg&ust=1744057634247000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOip1o-fxIwDFQAAAAAdAAAAABAE)" alt="Banner" width="700"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2FSandiaLabs-cyber-hacking-attack-hun4DFmfnDId3lid5b&psig=AOvVaw2436qLbMqWvpW_sKzFYlbg&ust=1744057634247000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOip1o-fxIwDFQAAAAAdAAAAABAE" alt="Banner" width="700"/>
 </p>
 
 <h1 align="center">🛡️ Yin Tsukiyomi — Cybersecurity Engineer</h1>
