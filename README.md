@@ -36,16 +36,12 @@ Second-year Software Engineering student at **University of Ankara**, specializi
 
 ## 🔥 Featured Project
 
-### 🧹 Digital Footprint Eraser  
+### 🧹 Lucy : Digital Footprint Eraser  
 > _"Because your data shouldn't haunt you."_
 
 - A privacy-focused tool designed to **identify and remove** digital traces across the internet.
 - Combines **OSINT techniques** with automated scripting to track down exposed data.
 - Built for ethical use and personal privacy protection.
-
-<p align="center">
-  <img src="https://your-image-link.com/project-preview.png" alt="Project Screenshot" width="500"/>
-</p>
 
 ---
 
