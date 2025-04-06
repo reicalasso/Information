@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="mailto:foolkiddo.hassle500@passinbox.com"><img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail"></a>
-  <a href="https://linkedin.com/in/mehmet-arda-hakbilen"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/mehmet-arda-hakbilen-12aba6269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
 ---
