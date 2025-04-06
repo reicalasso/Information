@@ -64,13 +64,6 @@ Second-year Software Engineering student at **University of Ankara**, specializi
 
 ---
 
-## 🛠️ Tech Stack
-
-```txt
-🖥️ Languages: Python, C/C++/C#, Javascript, Bash, 
-🔭 Platforms: Kali Linux, Parrot OS, HTB Labs, Windows
-
-<pre>
 ⣇⣿⠘⣿⣿⣿⡿⡿⣟⣟⢟⢟⢝⠵⡝⣿⡿⢂⣼⣿⣷⣌⠩⡫⡻⣝⠹⢿⣿⣷
 ⡆⣿⣆⠱⣝⡵⣝⢅⠙⣿⢕⢕⢕⢕⢝⣥⢒⠅⣿⣿⣿⡿⣳⣌⠪⡪⣡⢑⢝⣇
 ⡆⣿⣿⣦⠹⣳⣳⣕⢅⠈⢗⢕⢕⢕⢕⢕⢈⢆⠟⠋⠉⠁⠉⠉⠁⠈⠼⢐⢕⢽
@@ -85,5 +78,15 @@ Second-year Software Engineering student at **University of Ankara**, specializi
 ⡕⡑⣑⣈⣻⢗⢟⢞⢝⣻⣿⣿⣿⣿⣿⣿⣿⠸⣿⠿⠃⣿⣿⣿⣿⣿⣿⡿⠁⣠
 ⡝⡵⡈⢟⢕⢕⢕⢕⣵⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣿⣿⣿⣿⣿⠿⠋⣀⣈⠙
 ⡝⡵⡕⡀⠑⠳⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⢉⡠⡲⡫⡪⡪⡣ 
-</pre>
+
+## 🛠️ Tech Stack
+
+
+```txt
+🖥️ Languages: Python, C/C++/C#, Javascript, Bash, 
+🔭 Platforms: Kali Linux, Parrot OS, HTB Labs, Windows
+
+
+
+
 
