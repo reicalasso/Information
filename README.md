@@ -69,3 +69,16 @@ Second-year Software Engineering student at **University of Ankara**, specializi
 ```txt
 🖥️ Languages: Python, C/C++/C#, Javascript, Bash, 
 🔭 Platforms: Kali Linux, Parrot OS, HTB Labs, Windows
+
+<pre>
+     __     ______  _    _   _______             _             
+     \ \   / / __ \| |  | | |__   __|           (_)            
+      \ \_/ / |  | | |  | |    | |_ __ ___  _ __ _ _ __   __ _ 
+       \   /| |  | | |  | |    | | '__/ _ \| '__| | '_ \ / _` |
+        | | | |__| | |__| |    | | | | (_) | |  | | | | | (_| |
+        |_|  \____/ \____/     |_|_|  \___/|_|  |_|_| |_|\__, |
+                                                          __/ |
+                                                         |___/ 
+             Yin Tsukiyomi | Cybersecurity | Hacker Mindset
+</pre>
+
