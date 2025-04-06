@@ -1,5 +1,5 @@
 
-<h1 align="center">🛡️ Yin Tsukiyomi — Cybersecurity Engineer</h1>
+<h1 align="center">🛡️ Yin Tsukuyomi — Cybersecurity Engineer</h1>
 
 <p align="center">
   Passionate about ethical hacking, digital privacy, and building secure systems.
