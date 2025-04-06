@@ -1,4 +1,7 @@
-<img src="src/image1.webp" alt="Banner" width="700"/>
+<p align="center">
+  <img src="src/image1.webp" alt="Banner" style="max-width: 100%; height: auto;" />
+</p>
+
 
 <h1 align="center">🛡️ Yin Tsukuyomi — Cybersecurity Engineer</h1>
 
