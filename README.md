@@ -57,7 +57,5 @@ Second-year Software Engineering student at **University of Ankara**, specializi
 ## 🛠️ Tech Stack
 
 ```txt
-🖥️ Languages: Python, C/C++, Bash
-🔐 Security Tools: Nmap, Wireshark, Metasploit, Burp Suite, Scapy
-🔭 Platforms: Kali Linux, Parrot OS, HTB Labs
-📡 Devices: ESP32 WROOM-32D, ST7789 Display
+🖥️ Languages: Python, C/C++/C#, Javascript, Bash, 
+🔭 Platforms: Kali Linux, Parrot OS, HTB Labs, Windows
