@@ -1,10 +1,4 @@
-## 🌊 Halftone Waves — Live Animation
 
-> React + Canvas ile yapılan dinamik halftone dalga animasyonu.
-
-[🔗 Canlı Demo](https://v0.dev/community/halftone-waves-ogQtvusSUD6)
-
-![Halftone Waves Preview](https://v0.dev/_next/image?url=%2Fcommunity%2Fhalftone-waves-ogQtvusSUD6%2Fpreview.png&w=1920&q=75)
 
 
 <p align="center">
