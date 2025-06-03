@@ -87,7 +87,7 @@ Second-year Software Engineering student at **University of Ankara**, specializi
 
 ## 🚀Buy me a coffee
 
-<p align="center">
+<p align="left">
   <a href=""><img src="https://img.shields.io/badge/BTC-Bitcoin-orange?style=for-the-badge&logo=bitcoin" alt="Bitcoin"/></a> bitcoin:bc1qgdhygyaajxqrxmvuavqrmvaregrtv3gv4vmuk0 <br/>
   <a href=""><img src="https://img.shields.io/badge/ETH-Ethereum-blue?style=for-the-badge&logo=ethereum" alt="Ethereum"/></a> ethereum:0xe4870a8adeab638824eda06082f95864fd8caf1d <br/>
   <a href=""><img src="https://img.shields.io/badge/SOL-Solana-purple?style=for-the-badge&logo=solana" alt="Solana"/></a> solana:DRLXLeqc44kbdRv3F3iwPUXGMUQpdrqGnQgkLDDXoSwA <br/>
