@@ -83,12 +83,7 @@ Second-year Software Engineering student at **University of Ankara**, specializi
 ⡝⡵⡕⡀⠑⠳⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⢉⡠⡲⡫⡪⡪⡣ 
 </pre>
 
-## 🛠️ Tech Stack
 
-
-```txt
-🖥️ Languages: Python, C/C++/C#, Javascript, Bash, 
-🔭 Platforms: Kali Linux, Parrot OS, HTB Labs, Windows
 
 ## 🚀Buy me a coffee
 
@@ -98,6 +93,16 @@ Second-year Software Engineering student at **University of Ankara**, specializi
   <a href="solana:DRLXLeqc44kbdRv3F3iwPUXGMUQpdrqGnQgkLDDXoSwA"><img src="https://img.shields.io/badge/SOL-Solana-purple?style=for-the-badge&logo=solana" alt="Solana"/></a>
   <a href="dogecoin:DAhd8JDGYtHKEDSuwVYyj8nUNA8dDjgaNi"><img src="https://img.shields.io/badge/DOGE-Dogecoin-yellow?style=for-the-badge&logo=dogecoin" alt="Dogecoin"/></a>
 </p>
+
+## 🛠️ Tech Stack
+
+
+```txt
+🖥️ Languages: Python, C/C++/C#, Javascript, Bash, 
+🔭 Platforms: Kali Linux, Parrot OS, HTB Labs, Windows
+
+
+
 
 
 
