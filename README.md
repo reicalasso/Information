@@ -1,6 +1,6 @@
 
 
-<h1 align="center">🧠 Yin Tsukuyomi — AI Researcher & Systems Engineer</h1>
+<h1 align="center">🧠 Rei Calasso — AI Researcher & Systems Engineer</h1>
 
 <p align="right">
   <img src="src/rikka-bg.png" alt="Backdrop" width="180" style="position: relative; z-index: 1; opacity: 0.3; margin-right: -20px;"/>
